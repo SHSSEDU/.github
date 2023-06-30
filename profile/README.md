@@ -10,3 +10,9 @@ https://docs.qq.com/doc/DS2FQTFFLc2R6SkNE
 https://docs.qq.com/mind/DS0FpZEdoam5WVFZ6  
 【腾讯文档】山河大学课程收集  
 https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2
+
+#耻辱柱🤡
+
+https://www.s6w.cn/
+
+直接盗用本项目资源。
