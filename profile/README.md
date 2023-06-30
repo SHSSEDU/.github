@@ -11,7 +11,7 @@ https://docs.qq.com/mind/DS0FpZEdoam5WVFZ6
 【腾讯文档】山河大学课程收集  
 https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2
 
-#耻辱柱🤡
+# 耻辱柱🤡
 
 https://www.s6w.cn/
 
