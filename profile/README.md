@@ -9,7 +9,7 @@ https://docs.qq.com/doc/DS2FQTFFLc2R6SkNE
 【腾讯文档】山河大学院系设置    
 https://docs.qq.com/mind/DS0FpZEdoam5WVFZ6  
 【腾讯文档】山河大学课程收集  
-https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2
+https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2  
 开发者QQ群：727614622
 # 耻辱柱🤡
 
