@@ -13,8 +13,4 @@ https://docs.qq.com/sheet/DS0lnRmdiZEp3WmtI?tab=BB08J2
 <img decoding="async" src="https://jsd.onmicrosoft.cn/gh/SHSSEDU/LOGO@main/newlogo/LOGO.png" width="20%">  
 
 
-# 耻辱柱🤡
 
-https://www.s6w.cn/
-
-直接盗用本项目资源。
