@@ -14,5 +14,22 @@ SHSSEDU是一个专注于教育、培训和就业的开源知识社区，旨在�
 我们致力于为用户打造一个全方位的教育、培训和就业平台，让你随时随地都能学习和成长。无论你是想学习新知识、提升职业技能、还是寻找更好的职业发展机会，SHSSEDU都能为你提供最好的资源和服务。
 
 
+## 参与SHSSEDU开源社区
+如果你想在SHSSEDU开源社区发起一个开源项目，请详细阅读SHSSEDU开源项目指南。
+
+*ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](https://github.com/SHSSEDU/SHSSEDU/blob/main/GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
+
+
+## 参与项目💓
+如果你暂时还没有什么想法欢迎浏览我们的[Issue列表](https://github.com/SHSSEDU/SHSSEDU/issues)看看有哪些是你感兴趣的😊，参与到项目中，或者通过[项目看板](https://github.com/SHSSEDU/SHSSEDU/projects)更直观的看到各个项目的进展状态。
+
+ps：含有 help wanted标签的Issue表示该项目有招募需求💡
+
+## 参与讨论💬
+我们开放了讨论渠道，如果你有任何想讨论的问题，欢迎通过[Discussion](https://github.com/SHSSEDU/SHSSEDU/discussions)与我们交流。
+
+## 反馈🐛
+如果你对SHSSEDU的任何开源项目有疑惑或者建议，欢迎去相应项目的Issue区进行反馈。你并不需要担心提出的问题没有价值，我们鼓励所有类型的沟通，发现问题也是对社区进行贡献的一种方式❤️。
+
 
 
