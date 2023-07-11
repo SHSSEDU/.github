@@ -15,7 +15,7 @@ SHSSEDU是一个专注于教育、培训和就业的开源知识社区，旨在�
 
 
 ## 参与SHSSEDU开源社区
-如果你想在SHSSEDU开源社区发起一个开源项目，请详细阅读SHSSEDU开源项目指南。
+如果你想在SHSSEDU开源社区发起一个开源项目，请提交[Issue](https://github.com/SHSSEDU/SHSSEDU/issues)。
 
 *ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](https://github.com/SHSSEDU/SHSSEDU/blob/main/GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
 
