@@ -2,6 +2,7 @@
 
 SHSSEDU开源知识社区欢迎您的加入  
 我们的官方网站：https://shssedu.ac.cn
+电子邮箱：admin@shssedu.ac.cn
 
 SHSSEDU是一个专注于教育、培训和就业的开源知识社区，旨在为广大用户提供优质的教育资源和职业发展指导。
 
