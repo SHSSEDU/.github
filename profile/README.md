@@ -14,9 +14,8 @@ SHSSEDU是一个专注于教育、培训和就业的开源知识社区，旨在�
 
 我们致力于为用户打造一个全方位的教育、培训和就业平台，让你随时随地都能学习和成长。无论你是想学习新知识、提升职业技能、还是寻找更好的职业发展机会，SHSSEDU都能为你提供最好的资源和服务。
 
-# 志愿者招聘
-
-了解更多 https://shssedu.ac.cn/zp
+# 加入我们
+[填写问卷](https://wj.qq.com/s2/12764111/8058/)
 
 ## 参与SHSSEDU开源社区
 如果你想在SHSSEDU开源社区发起一个开源项目，请提交[Issue](https://github.com/SHSSEDU/SHSSEDU/issues)。
