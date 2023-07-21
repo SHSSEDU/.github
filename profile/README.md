@@ -1,8 +1,10 @@
 # SHSSEDU
 
-山河知识社区欢迎您的加入  
-我们的官方网站：https://shssedu.ac.cn
-电子邮箱：admin@shssedu.ac.cn
+山河知识社区欢迎您的加入。  
+我们的官方网站：https://shssedu.ac.cn  
+电子邮箱：admin@shssedu.ac.cn  
+TG群组：https://t.me/SHSSEDU_Official  
+社区QQ群：576609564  
 
 SHSSEDU（山河知识社区）是一个专注于教育、培训和就业的开源知识社区，旨在为广大用户提供优质的教育资源和职业发展指导。
 ## 微信公众号
@@ -24,7 +26,7 @@ SHSSEDU（山河知识社区）是一个专注于教育、培训和就业的开�
 ps：含有 help wanted标签的Issue表示该项目有招募需求💡
 
 ## 参与讨论💬
-我们开放了讨论渠道，如果你有任何想讨论的问题，欢迎通过[Discussion](https://github.com/SHSSEDU/SHSSEDU/discussions)与我们交流。
+我们开放了讨论渠道，如果你有任何想讨论的问题，欢迎通过[TG群组](https://t.me/SHSSEDU_Official)与我们交流。
 
 ## 反馈🐛
 如果你对SHSSEDU的任何开源项目有疑惑或者建议，欢迎去相应项目的Issue区进行反馈。你并不需要担心提出的问题没有价值，我们鼓励所有类型的沟通，发现问题也是对社区进行贡献的一种方式❤️。
