@@ -1,6 +1,6 @@
 # SHSSEDU
 
-山河知识社区欢迎您的加入。  
+山河知识社区(原山河大学)欢迎您的加入。  
 我们的官方网站：https://shssedu.ac.cn  
 电子邮箱：admin@shssedu.ac.cn  
 TG群组：https://t.me/SHSSEDU_Official  
