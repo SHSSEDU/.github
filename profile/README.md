@@ -16,7 +16,7 @@ SHSSEDU 是一个专注于知识领域的开源社区，汇集了众多领域院
 [填写问卷](https://wj.qq.com/s2/12764111/8058/)
 
 ## 参与SHSSEDU开源社区
-如果你想在SHSSEDU开源社区发起一个开源项目，请提交[Issue](https://github.com/SHSSEDU/SHSSEDU/issues)。
+如果你想在Datawhale开源社区发起一个开源项目，请详细阅读[SHSSEDU开源项目指南](https://github.com/SHSSEDU/SHSSEDU/blob/main/GUIDE.md)。
 
 *ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](https://github.com/SHSSEDU/SHSSEDU/blob/main/GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
 
