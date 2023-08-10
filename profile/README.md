@@ -12,7 +12,7 @@ SHSSEDU 是一个专注于知识领域的开源社区，汇集了众多领域院
 <img src="https://s2.loli.net/2023/07/15/Sfzb9TtlUsEiKew.jpg" width="100px" height="100px"/>
 
 # 社区规范
-[《SHSSEDU社区规范》](https://srs.comein.cn/static/web/viewer.html?file=https://gcore.jsdelivr.net/gh/SHSSEDU/SHSSEDU@main/%E7%A4%BE%E5%8C%BA%E8%A7%84%E8%8C%83.pdf)
+[《SHSSEDU社区规范》](https://shssedu.ac.cn/guifan)
 
 # 加入我们
 [填写问卷](https://wj.qq.com/s2/12764111/8058/)
